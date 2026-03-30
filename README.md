@@ -62,14 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waleedshaqfeh&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedshaqfeh&layout=compact" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 I didn’t just switch careers — I analyzed my way into Data Analytics.
 
